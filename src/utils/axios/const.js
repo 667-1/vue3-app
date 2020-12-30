@@ -1,0 +1,1 @@
+export const errResponse = '_ERROR_RESPONSE_';
